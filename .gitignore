@@ -1,0 +1,19 @@
+/dist
+/tmp
+/out-tsc
+
+pids
+*.pid
+*.seed
+*.pid.lock
+
+lib-cov
+
+.grunt
+
+.lock-wscript
+
+# IDE
+.idea
+
+.npm
